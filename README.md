@@ -129,7 +129,7 @@ export async function POST(req: Request) {
   ```
 - Run a single test or pattern:
   ```bash
-  npx jest openai/agent/e2e.agent.graph-actions.test.ts -t "E2E: MewAgent"
+  npx jest openai/agent/e2e.agent.graph-actions.test.ts -t "E2E: Agent"
   ```
 - What the suite uses by default:
   - OpenAI SDK is mocked → deterministic, fast, cost-free.
