@@ -1,0 +1,10 @@
+data: {"type":"tool_call","data":{"name":"execute_direct_request","args":{"user_query":"Prospecting Report — Sam Altman. Create a user report under Reports/Prospecting and relate to Sam Altman. Then finish_work.","parent_node_id":"user/Reports/Prospecting"}}}
+
+data: {"type":"client_action","data":{"name":"create_node","args":{"parentId":"user/Reports/Prospecting","content":"Node path: user/Reports/Prospecting/Prospecting Report — Sam Altman\n\nProspecting brief — Sam Altman","nodeId":"00000000-0000-0000-0000-000000000000"}}}
+
+data: {"type":"client_action","data":{"name":"add_relation","args":{"fromId":"00000000-0000-0000-0000-000000000000","toId":"SAM_ALTMAN","relationTypeId":"relatedTo"}}}
+
+data: {"type":"final_summary","data":{"summary":"Agent session finished (preflight).","stats":{}}}
+
+data: {"type":"end","data":{"ok":true}}
+

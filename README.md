@@ -181,7 +181,7 @@ Key signals
 - Live smokes ran successfully where applicable
 
 See also
-- Full write‑up: Interview/TEST_MASTER_SUMMARY.md
+- Full write‑up: TEST_MASTER_SUMMARY.md
 - Latest SSE sample (preflight): Interview/sse_samples/ai_research.preflight.sse.log
 
 

@@ -1,0 +1,8 @@
+data: {"type":"tool_call","data":{"name":"search_academic","args":{"query":"AGI safety site:arxiv.org"}}}
+
+data: {"type":"tool_result","data":{"name":"search_academic","result":{"hits":2},"success":true}}
+
+data: {"type":"final_summary","data":{"summary":"Agent session finished (preflight).","stats":{}}}
+
+data: {"type":"end","data":{"ok":true}}
+

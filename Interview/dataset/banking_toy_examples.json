@@ -1,0 +1,49 @@
+[
+  {
+    "id": "b1",
+    "prompt": "Identify target banks and stakeholders",
+    "bullets": [
+      "Prospecting banks; build pipeline in CRM.",
+      "Focus on lending, payments, treasury products.",
+      "Draft initial outreach to prospects."
+    ],
+    "expected_tags": ["banking prospecting", "products", "outreach"]
+  },
+  {
+    "id": "b2",
+    "prompt": "Qualify a lead using BANT/ICP",
+    "bullets": [
+      "Assess budget, authority, need, timeline (BANT).",
+      "Check ICP fit for financial institutions."
+    ],
+    "expected_tags": ["lead qualification"]
+  },
+  {
+    "id": "b3",
+    "prompt": "Assess risk and compliance considerations",
+    "bullets": [
+      "Confirm KYC/AML and regulatory requirements.",
+      "Document risk controls and policy checkpoints."
+    ],
+    "expected_tags": ["risk compliance"]
+  },
+  {
+    "id": "b4",
+    "prompt": "Prepare a three-step outreach sequence",
+    "bullets": [
+      "Email outreach: intro, value, request call.",
+      "Follow-up sequence with timeline reminders."
+    ],
+    "expected_tags": ["outreach"]
+  },
+  {
+    "id": "b5",
+    "prompt": "Summarize pipeline and next actions",
+    "bullets": [
+      "Prospecting continues for target banks.",
+      "Qualify leads; schedule outreach to prospects."
+    ],
+    "expected_tags": ["banking prospecting", "lead qualification", "outreach"]
+  }
+]
+

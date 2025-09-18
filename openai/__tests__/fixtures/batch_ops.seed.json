@@ -1,0 +1,317 @@
+{
+  "global": {
+    "People": {
+      "Founders": [
+        "Sam Altman - CEO of OpenAI, formerly president of Y Combinator, born April 22, 1985",
+        "Elon Musk - CEO of Tesla and SpaceX, co-founder of OpenAI (departed 2018)",
+        "Jensen Huang - Founder and CEO of NVIDIA, pioneered GPU computing and AI acceleration"
+      ],
+      "Investors": [
+        "Sequoia Capital - Leading VC firm with $85B AUM, portfolio includes Apple, Google, Stripe, Airbnb",
+        "Marc Andreessen - Co-founder of a16z, previously founded Netscape, 'Software is eating the world' thesis",
+        "Peter Thiel - Co-founder of PayPal and Palantir, first outside investor in Facebook, Founders Fund partner"
+      ],
+      "Researchers": [
+        "Ilya Sutskever - Co-founder and former Chief Scientist at OpenAI, co-inventor of AlexNet",
+        "Yann LeCun - Chief AI Scientist at Meta, Turing Award winner 2018, pioneer of CNNs",
+        "Geoffrey Hinton - Godfather of deep learning, Turing Award winner, backpropagation pioneer"
+      ]
+    },
+    "Market Intel": {
+      "AI Safety": [
+        "Alignment Research - Methods for ensuring AI systems behave according to human values including RLHF and Constitutional AI",
+        "Existential Risk - Long-term risks from advanced AI systems with P(doom) estimates ranging from <1% to >50%",
+        "Governance Frameworks - Regulatory approaches including EU AI Act, US Executive Order 14110, California SB 1047"
+      ],
+      "Quantum Computing": [
+        "Current State - IBM achieved 1121 qubit processor, Google claims quantum advantage with 70 qubits",
+        "Applications - Drug discovery, cryptography, optimization problems, materials science with 5-10 year commercial timeline",
+        "Quantum Cryptography - Post-quantum standards released by NIST including CRYSTALS-Kyber and CRYSTALS-Dilithium"
+      ],
+      "Biotech Innovations": [
+        "CRISPR Advances - Base editing and prime editing reduce off-target effects, Casgevy approved for sickle cell",
+        "AI Drug Discovery - AlphaFold3 predicts protein-drug interactions, multiple AI-designed drugs in trials",
+        "Gene Therapy - AAV vectors improving delivery, CAR-T cell therapies expanding beyond cancer"
+      ],
+      "Climate Tech": [
+        "Carbon Capture - Direct air capture costs declining from $600-1000/ton targeting <$100/ton by 2030",
+        "Fusion Energy - ITER under construction, Commonwealth Fusion targeting 2030s commercial deployment",
+        "Green Hydrogen - Electrolyzer costs falling 60% since 2010, targeting $1/kg production cost"
+      ]
+    },
+    "Industry Analysis": {
+      "FinTech": [
+        "Digital Banking - Neo-banks reached 300M+ users globally, traditional banks investing heavily in digital",
+        "Blockchain Finance - DeFi TVL at $50B+, CBDCs in development by 130+ countries",
+        "Payment Innovation - Real-time payments adoption, embedded finance growing 3x yearly"
+      ],
+      "Healthcare Tech": [
+        "Telemedicine - Post-pandemic adoption sustained at 38x pre-2020 levels with AI diagnostics",
+        "Wearables & Monitoring - CGMs, smart watches detecting AFib, digital therapeutics FDA-approved",
+        "Precision Medicine - Genomic sequencing costs fell 99.9%, personalized cancer treatments expanding"
+      ],
+      "Enterprise AI": [
+        "Automation - RPA market growing 30% annually, intelligent document processing mainstream",
+        "Analytics - Predictive maintenance saving 10-40% costs, real-time decision intelligence",
+        "Generative AI - LLMs transforming customer service, code generation, content creation"
+      ]
+    },
+    "Academic Papers": [
+      "Attention Is All You Need - Vaswani et al 2017, introduced transformer architecture, 100k+ citations",
+      "Constitutional AI - Anthropic 2022, training AI systems to be helpful harmless and honest",
+      "Scaling Laws for Neural Language Models - Kaplan et al 2020, power laws in model performance",
+      "BERT - Devlin et al 2018, bidirectional transformers revolutionized NLP",
+      "GPT-3 - Brown et al 2020, demonstrated few-shot learning at scale",
+      "Chain-of-Thought Prompting - Wei et al 2022, improved reasoning in large language models",
+      "Mamba"
+    ],
+    "Global Trends": {
+      "Technology Adoption": [
+        "AI Integration - 77% of enterprises using or exploring AI, $500B market by 2025",
+        "Cloud Migration - 94% of enterprises use cloud, multi-cloud strategies dominant",
+        "Edge Computing - 75% of data processed outside data centers by 2025"
+      ],
+      "Geopolitical Factors": [
+        "Chip Wars - US CHIPS Act $280B investment, semiconductor supply chain reshoring",
+        "Data Sovereignty - GDPR influence spreading, national data localization requirements",
+        "Tech Regulation - Antitrust actions against big tech, AI governance frameworks emerging"
+      ],
+      "Workforce Evolution": [
+        "Remote Work - 30% permanent remote post-pandemic, hybrid models predominant",
+        "Skills Gap - 87% of companies report talent shortage in tech roles",
+        "Reskilling - $100B+ corporate investment in employee retraining programs"
+      ]
+    }
+  },
+  "user": {
+    "Reports": {
+      "Prospecting": [
+        "AI Startups Q2 2024 - Analysis of 50 AI startups in seed/Series A focusing on enterprise AI and vertical SaaS",
+        "Quantum Computing Investment Thesis - Deep dive on quantum hardware and software investment opportunities",
+        "Climate Tech Pipeline - Evaluation of 30 climate startups across carbon capture, fusion, and green hydrogen"
+      ],
+      "Due Diligence": [
+        "OpenAI Analysis - Comprehensive analysis of business model, competitive position, and growth trajectory",
+        "Anthropic Evaluation - Constitutional AI approach, enterprise adoption potential, $18B valuation assessment",
+        "Perplexity AI Review - AI search engine disruption potential, user growth metrics, competitive moat analysis"
+      ],
+      "Market Research": [
+        "LLM Market Landscape 2024 - Comparison of GPT-4, Claude, Gemini, Llama capabilities and pricing",
+        "Enterprise AI Adoption Study - Survey of 200 companies on AI implementation challenges and ROI",
+        "Vertical SaaS Opportunities - Analysis of AI-native SaaS disrupting legal, healthcare, and finance"
+      ]
+    },
+    "Portfolio": {
+      "Active Investments": [
+        "Perplexity AI - $2M Series B at $520M valuation, AI-powered search competing with Google",
+        "Anthropic - $5M investment at $18B valuation, Constitutional AI for enterprise adoption",
+        "Cursor AI - $1M seed investment, AI-powered code editor with 100k+ developer adoption",
+        "Ideaflow - $500k pre-seed, graph-based knowledge management with AI agents",
+        "Character AI - $3M Series A, consumer AI companions with 20M+ MAU"
+      ],
+      "Pipeline": [
+        "Mistral AI - European LLM competitor, considering $2M at Series B",
+        "Cohere - Enterprise-focused LLM platform, evaluating $3M investment",
+        "Inflection AI - Personal AI assistant, due diligence in progress",
+        "Adept AI - AI agents for enterprise automation, initial conversations"
+      ],
+      "Exits": [
+        "DeepMind - Early investment, acquired by Google for $500M in 2014",
+        "GitHub Copilot Team - Seed investment, acquisition by Microsoft 2021",
+        "Jasper AI - 3x return at Series A exit to strategic buyer"
+      ]
+    },
+    "Inbox": {
+      "Recent": [
+        "Meeting with Jensen - NVIDIA AI Summit discussing Blackwell architecture and 2.5x performance gains",
+        "Quick thought on AGI timeline - Converging estimates 2027-2030 after Ilya's OpenAI departure",
+        "Sam Altman catch-up - Discussed GPT-5 capabilities and potential co-investment opportunities",
+        "Due diligence request - Runway ML seeking $5M at $1.5B valuation for video generation platform",
+        "LP update draft - Q2 returns up 47%, need to highlight AI portfolio performance"
+      ],
+      "Action Items": [
+        "Schedule call with Mistral AI founders - Technical deep dive on architecture",
+        "Review Cohere enterprise contracts - Validate $100M ARR claims",
+        "Send portfolio deck to Jensen - Follow up from NVIDIA summit",
+        "Draft investment memo for Cursor - IC meeting next Tuesday",
+        "Research Mamba architecture - Potential transformer alternative"
+      ]
+    },
+    "Personal Notes": {
+      "Investment Thesis 2024": [
+        "Focus on AI infrastructure plays - Picks and shovels over pure LLM wrappers",
+        "Defensible moats required - Proprietary data, enterprise distribution, or technical differentiation",
+        "Avoid commoditized spaces - Basic chatbots, simple API wrappers, undifferentiated tools",
+        "Key criteria - 10x improvement, $1B+ TAM, exceptional founders, clear GTM strategy"
+      ],
+      "Network Building": [
+        "YC Network - Leverage alumni connections, Sam Altman relationship valuable for AI deals",
+        "Academic Connections - Stanford AI Lab, MIT CSAIL for technical talent and research commercialization",
+        "Corporate Development - Maintain relationships with Google, Microsoft, Meta for strategic exits",
+        "International Expansion - Building connections in European AI ecosystem, exploring Asia opportunities"
+      ],
+      "Learning Goals": [
+        "Technical Deep Dives - Understanding transformer alternatives, multimodal architectures",
+        "Market Analysis - Studying vertical AI disruption patterns across industries",
+        "Regulatory Landscape - Tracking global AI governance and compliance requirements",
+        "Emerging Technologies - Quantum computing, neuromorphic chips, biological computing"
+      ]
+    },
+    "Meeting Notes": {
+      "2024-05": [
+        "Anthropic Leadership - Discussed Constitutional AI advantages for regulated industries",
+        "Sequoia AI Day - Key insight: winner-take-most dynamics in vertical AI markets",
+        "OpenAI Developer Conference - GPT-5 multimodal capabilities impressive, API pricing competitive"
+      ],
+      "2024-04": [
+        "YC Demo Day W24 - 30% of batch AI-focused, quality improving each cycle",
+        "Index Ventures AI Summit - European AI ecosystem maturing rapidly",
+        "Stanford AI Symposium - Academic research increasingly commercializable"
+      ],
+      "2024-03": [
+        "GV Partners Meeting - Agreed on $50M allocation to AI/ML investments",
+        "Meta AI Research Visit - Impressive open-source strategy with Llama 3",
+        "DeepMind Presentation - Gemini capabilities approaching GPT-4 performance"
+      ]
+    },
+    "Research Library": {
+      "AI Papers": [
+        "Mamba: Linear-Time Sequence Modeling - Potential O(n) alternative to O(n²) attention",
+        "RLHF Techniques - Comparative analysis of reward modeling approaches",
+        "Multimodal Learning - CLIP, DALL-E, Flamingo architectures and applications"
+      ],
+      "Market Reports": [
+        "Gartner AI Hype Cycle 2024 - Generative AI entering trough of disillusionment",
+        "McKinsey AI Adoption Study - 70% of companies piloting, 20% in production",
+        "CB Insights AI Funding Report - $42B invested in AI startups in 2023"
+      ],
+      "Technical Guides": [
+        "LLM Fine-tuning Best Practices - LoRA, QLoRA, and full fine-tuning comparison",
+        "Vector Database Comparison - Pinecone vs Weaviate vs Chroma for RAG systems",
+        "AI Agent Architectures - ReAct, Chain-of-Thought, Tool-use patterns"
+      ]
+    },
+    "Templates": {
+      "Investment Memos": [
+        "Seed Stage AI Template - Problem, solution, market, team, traction, risks sections",
+        "Series A Deep Tech Template - Technology moat, IP analysis, competitive dynamics",
+        "Due Diligence Checklist - Technical, market, financial, legal, team evaluation framework"
+      ],
+      "Communication": [
+        "Founder Pitch Feedback Template - Constructive framework for declining investments",
+        "LP Quarterly Update Template - Performance, portfolio highlights, market commentary",
+        "Cold Outreach Template - Personalized approach for connecting with founders"
+      ]
+    }
+  },
+  "testScenarios": {
+    "rag_cross_graph_search": {
+      "description": "Test searching across both user and global graphs",
+      "query": "What do I know about Sam Altman and my interactions with him?",
+      "expectedResults": [
+        "global:People/Founders/Sam Altman",
+        "user:Reports/Due Diligence/OpenAI Analysis",
+        "user:Inbox/Recent/Sam Altman catch-up",
+        "user:Personal Notes/Network Building/YC Network"
+      ]
+    },
+    "rag_knowledge_synthesis": {
+      "description": "Test synthesizing information from multiple sources",
+      "query": "Summarize the current state of AI safety research and my investment thesis",
+      "expectedSources": [
+        "global:Market Intel/AI Safety",
+        "global:Academic Papers/Constitutional AI",
+        "user:Personal Notes/Investment Thesis 2024",
+        "user:Portfolio/Active Investments/Anthropic"
+      ]
+    },
+    "rag_contextual_update": {
+      "description": "Test updating existing notes with web search and graph context",
+      "query": "Update my OpenAI analysis with latest developments",
+      "requiredActions": ["find_nodes", "web_search", "update_node_content"]
+    },
+    "rag_smart_organization": {
+      "description": "Test intelligent organization based on existing structure",
+      "query": "Organize my inbox items into appropriate categories",
+      "expectedMoves": {
+        "Meeting with Jensen": "user:Meeting Notes/2024-05",
+        "Quick thought on AGI": "user:Personal Notes",
+        "Due diligence request": "user:Reports/Due Diligence"
+      }
+    },
+    "rag_relationship_discovery": {
+      "description": "Test finding and creating meaningful relationships",
+      "query": "Find connections between my portfolio companies and global market trends",
+      "expectedRelations": [
+        ["user:Portfolio/Active Investments/Anthropic", "global:Market Intel/AI Safety"],
+        ["user:Portfolio/Active Investments/Perplexity AI", "global:Industry Analysis/Enterprise AI"],
+        ["user:Portfolio/Pipeline/Mistral AI", "global:Academic Papers/Mamba"]
+      ]
+    },
+    "rag_personalized_recommendations": {
+      "description": "Generate recommendations based on user's graph patterns",
+      "query": "What investment opportunities should I prioritize based on my thesis and current market?",
+      "expectedInsights": [
+        "Focus on AI infrastructure per thesis",
+        "Cursor AI aligns with defensible moat criteria",
+        "Quantum computing emerging per market intel"
+      ]
+    }
+  },
+  "index": {
+    "byPath": {
+      "global/People/Founders/Sam Altman": "SAM_ALTMAN",
+      "user/Reports/Due Diligence/OpenAI Analysis": "USER_DD_OPENAI",
+      "user/Inbox/Recent/Sam Altman catch-up": "INBOX_SAM_CATCHUP",
+      "user/Personal Notes/Network Building/YC Network": "USER_NETWORK_YC",
+      "global/Market Intel/AI Safety": "AI_SAFETY_MARKET_INTEL",
+      "global/Academic Papers/Constitutional AI": "PAPER_CONSTITUTIONAL_AI_ANTHROPIC_2022",
+      "user/Portfolio/Active Investments/Anthropic": "PORTFOLIO_ANTHROPIC"
+    }
+  },
+  "testScenariosMeta": {
+    "rag_cross_graph_search": {
+      "relevantIds": ["SAM_ALTMAN", "USER_DD_OPENAI", "INBOX_SAM_CATCHUP", "USER_NETWORK_YC"],
+      "requiredTools": ["graph_rag_answer"],
+      "forbiddenTools": [],
+      "expectedToolSequence": ["find_nodes", "graph_rag_answer"],
+      "minCitations": 2,
+      "hitAtKMax": 3,
+      "tokenBudget": { "prompt": 900, "completion": 600 }
+    },
+    "rag_knowledge_synthesis": {
+      "relevantIds": [
+        "AI_SAFETY_MARKET_INTEL",
+        "PAPER_CONSTITUTIONAL_AI_ANTHROPIC_2022",
+        "USER_DD_OPENAI",
+        "PORTFOLIO_ANTHROPIC"
+      ],
+      "requiredTools": ["graph_rag_answer"],
+      "forbiddenTools": [],
+      "minCitations": 2,
+      "tokenBudget": { "prompt": 1200, "completion": 700 }
+    },
+    "rag_contextual_update": {
+      "requiredTools": ["find_nodes", "web_search", "update_node_content"],
+      "freshnessWindowDays": 540,
+      "minCitations": 2
+    }
+  },
+  "taxonomy": {
+    "topics": ["ai-safety", "quantum", "fintech", "enterprise-ai", "climate-tech"],
+    "synonyms": {
+      "YC": ["Y Combinator"],
+      "GenAI": ["Generative AI", "foundation models"],
+      "RAG": ["retrieval augmented generation"]
+    }
+  },
+  "triageRules": [
+    { "match": { "titleContains": "Meeting" }, "moveToPath": "user/Meeting Notes/2024-05" },
+    { "match": { "titleContains": "Due diligence" }, "moveToPath": "user/Reports/Due Diligence" },
+    { "match": { "titleContains": "AGI" }, "moveToPath": "user/Personal Notes" }
+  ],
+  "permissions": [
+    { "nodePath": "user/Reports/Due Diligence/OpenAI Analysis", "visibility": "private", "allowedUsers": ["test-user"] }
+  ],
+  "riskFlags": [{ "nodePath": "global/Market Intel/AI Safety", "reason": "evergreen_topic" }]
+}

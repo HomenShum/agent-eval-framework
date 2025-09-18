@@ -1,0 +1,18 @@
+[
+  {
+    "name": "create_node",
+    "args": {
+      "parentId": "user/Reports/Prospecting",
+      "content": "Node path: user/Reports/Prospecting/Prospecting Report — Sam Altman\n\nProspecting brief — Sam Altman",
+      "nodeId": "00000000-0000-0000-0000-000000000000"
+    }
+  },
+  {
+    "name": "add_relation",
+    "args": {
+      "fromId": "00000000-0000-0000-0000-000000000000",
+      "toId": "SAM_ALTMAN",
+      "relationTypeId": "relatedTo"
+    }
+  }
+]

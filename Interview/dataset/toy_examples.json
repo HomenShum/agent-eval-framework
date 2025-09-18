@@ -1,0 +1,49 @@
+[
+  {
+    "id": "ex1",
+    "prompt": "Summarize how agents plan tasks and execute tool calls.",
+    "bullets": [
+      "Agents coordinate planning+execution with tool calls to achieve goals.",
+      "Showcase a small example (demo) with a clear walkthrough."
+    ],
+    "expected_tags": ["agentic frameworks", "demo"]
+  },
+  {
+    "id": "ex2",
+    "prompt": "Explain context engineering in RAG pipelines.",
+    "bullets": [
+      "Context engineering includes retrieval and grounding of relevant context.",
+      "Discuss prompting strategies to stabilize outputs."
+    ],
+    "expected_tags": ["context engineering"]
+  },
+  {
+    "id": "ex3",
+    "prompt": "Define an evaluation plan.",
+    "bullets": [
+      "We will design simple eval metrics: precision, recall, and F1.",
+      "This mini suite scores predicted tags vs ground truth."
+    ],
+    "expected_tags": ["evaluation"]
+  },
+  {
+    "id": "ex4",
+    "prompt": "List projects we have delivered.",
+    "bullets": [
+      "Past deliverables include case studies and significant builds.",
+      "We can show work examples and outcomes."
+    ],
+    "expected_tags": ["projects"]
+  },
+  {
+    "id": "ex5",
+    "prompt": "Combine the above in a single storyline.",
+    "bullets": [
+      "An agentic approach with planning and tool-calls feeds a demo walkthrough.",
+      "Context engineering shapes retrieval/grounding.",
+      "We close with an evaluation using precision/recall/F1 and highlight prior builds."
+    ],
+    "expected_tags": ["agentic frameworks", "context engineering", "evaluation", "projects", "demo"]
+  }
+]
+

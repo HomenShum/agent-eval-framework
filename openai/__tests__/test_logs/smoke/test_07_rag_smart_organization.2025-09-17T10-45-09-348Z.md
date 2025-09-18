@@ -1,0 +1,18 @@
+# Results: rag_smart_organization
+Test: live.smoke.test.ts :: rag_smart_organization
+Timestamp: 2025-09-17T10-45-09-348Z
+input.query: Organize my inbox items into appropriate categories under my graph (use move_node). Use triage rules implicitly. Do not modify global. Finish with one final summary.
+input.context: Inbox items exist; prefer moves for items like 'Meeting with Jensen', 'Quick thought on AGI', 'Due diligence request'.
+seed.expectedMoves: {"Meeting with Jensen":"user:Meeting Notes/2024-05","Quick thought on AGI":"user:Personal Notes","Due diligence request":"user:Reports/Due Diligence"}
+actions.count: 0
+actions.sample: 
+moves_observed: 0
+- Meeting with Jensen -> user:Meeting Notes/2024-05 : FAIL
+  dest_children[user:Meeting Notes/2024-05]: Anthropic Leadership - Discussed Constitutional AI advantages for regulated industries, Sequoia AI Day - Key insight: winner-take-most dynamics in vertical AI markets, OpenAI Developer Conference - GPT-5 multimodal capabilities impressive, API pricing competitive
+  parents_after: Recent, Meeting with Jensen - NVIDIA AI Summit discussing Blackwell architecture and 2.5x performance gains
+- Quick thought on AGI -> user:Personal Notes : FAIL
+  dest_children[user:Personal Notes]: Investment Thesis 2024, Network Building, Learning Goals
+  parents_after: Recent, Quick thought on AGI timeline - Converging estimates 2027-2030 after Ilya's OpenAI departure
+- Due diligence request -> user:Reports/Due Diligence : FAIL
+  dest_children[user:Reports/Due Diligence]: OpenAI Analysis - Comprehensive analysis of business model, competitive position, and growth trajectory, Anthropic Evaluation - Constitutional AI approach, enterprise adoption potential, $18B valuation assessment, Perplexity AI Review - AI search engine disruption potential, user growth metrics, competitive moat analysis
+  parents_after: Recent, Due diligence request - Runway ML seeking $5M at $1.5B valuation for video generation platform

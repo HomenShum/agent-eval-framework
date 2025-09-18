@@ -1,0 +1,16 @@
+data: {"type":"tool_call","data":{"name":"create_node_and_get_details","args":{"parentId":"project-alpha-id","content":"Meetings"}}}
+
+data: {"type":"client_action","data":{"name":"create_node","args":{"parentId":"project-alpha-id","content":"Meetings","nodeId":"00000000-0000-0000-0000-000000000000"}}}
+
+data: {"type":"tool_call","data":{"name":"move_node","args":{"nodeId":"note-123-id","newParentId":"00000000-0000-0000-0000-000000000000"}}}
+
+data: {"type":"client_action","data":{"name":"move_node","args":{"nodeId":"note-123-id","newParentId":"00000000-0000-0000-0000-000000000000"}}}
+
+data: {"type":"tool_call","data":{"name":"move_node","args":{"nodeId":"note-456-id","newParentId":"00000000-0000-0000-0000-000000000000"}}}
+
+data: {"type":"client_action","data":{"name":"move_node","args":{"nodeId":"note-456-id","newParentId":"00000000-0000-0000-0000-000000000000"}}}
+
+data: {"type":"final_summary","data":{"summary":"Agent session finished (preflight).","stats":{}}}
+
+data: {"type":"end","data":{"ok":true}}
+

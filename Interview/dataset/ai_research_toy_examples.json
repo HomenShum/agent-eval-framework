@@ -1,0 +1,49 @@
+[
+  {
+    "id": "r1",
+    "prompt": "Survey agentic frameworks literature",
+    "bullets": [
+      "Literature review of agent papers and surveys.",
+      "Summarize frameworks and tool usage patterns.",
+      "Discuss context windows and retrieval grounding."
+    ],
+    "expected_tags": ["literature review", "agent tools", "context engineering"]
+  },
+  {
+    "id": "r2",
+    "prompt": "Organize research notes with links",
+    "bullets": [
+      "Notes organized; bidirectional linking (graph).",
+      "Zettelkasten style cross-references for ideas."
+    ],
+    "expected_tags": ["note organization"]
+  },
+  {
+    "id": "r3",
+    "prompt": "Prepare RAG-ready context packets",
+    "bullets": [
+      "Context engineering for retrieval and grounding.",
+      "Package chunks, metadata, citations for reuse."
+    ],
+    "expected_tags": ["context engineering"]
+  },
+  {
+    "id": "r4",
+    "prompt": "Plan tool calls and capture traces",
+    "bullets": [
+      "Define agent actions and plugin calls.",
+      "Record tool-call traces; analyze decisions."
+    ],
+    "expected_tags": ["agent tools"]
+  },
+  {
+    "id": "r5",
+    "prompt": "Define a mini evaluation rubric",
+    "bullets": [
+      "Evaluation metrics: precision, recall, F1.",
+      "Scoring outputs against expected labels."
+    ],
+    "expected_tags": ["evaluation"]
+  }
+]
+
